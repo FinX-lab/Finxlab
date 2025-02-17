@@ -14,6 +14,7 @@ import Team from "components/Digital/Team";
 import Blog from "components/Digital/Blog";
 import Contact from "components/Digital/Contact";
 import Footer from "components/Digital/Footer";
+import ChooseBusiness from "components/Digital/ChooseBussiness";
 
 const HomeDigitalAgency = () => {
   return (
@@ -25,6 +26,7 @@ const HomeDigitalAgency = () => {
         <About />
         <Services />
         <ChooseUs />
+        <ChooseBusiness/>
         <Portfolio />
         <Testimonials />
         <Team />
