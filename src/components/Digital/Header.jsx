@@ -21,8 +21,7 @@ const Header = () => {
                 <div className="section-head mb-60">
                   <h6 className="color-main text-uppercase">Finx Lab</h6>
                   <h2>
-                    Investment & Techology{" "}
-                    <span className="fw-normal">Solutions</span>
+                    Business & IT <span className="fw-normal">Solutions</span>
                   </h2>
                 </div>
                 <div className="text">
