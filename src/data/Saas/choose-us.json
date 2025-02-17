@@ -1,17 +1,17 @@
 [
   {
     "icon": "/assets/img/icons/serv_icons/1.png",
-    "info": "IT Consultation",
-    "details": "Our experts provide strategic guidance and technical insight to drive your business forward."
+    "info": "Business & Finance Consulting",
+    "details": "Our experts offer financial strategies and business solutions to help you grow, manage risks, and achieve your goals."
   },
   {
     "icon": "/assets/img/icons/serv_icons/3.png",
-    "info": "Graphic Design",
-    "details": "Our creative team designs visually stunning graphics to enhance your brand identity and engage your audience."
+    "info": "Graphic & Web Design",
+    "details": "Our creative team specializes in visually captivating graphic design and custom websites that elevate your brand and engage customers."
   },
   {
     "icon": "/assets/img/icons/serv_icons/5.png",
-    "info": "Website Development",
-    "details": "We build responsive, user-friendly websites that help businesses establish a strong online presence."
+    "info": "Website & Digital Solutions",
+    "details": "We provide tailored web development services, creating seamless, responsive websites that enhance your online presence and functionality."
   }
 ]
