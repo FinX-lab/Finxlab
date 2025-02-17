@@ -2100,7 +2100,15 @@ small.text {
   .side_menu.style-7 {
     width: 100%; }
     .side_menu.style-7 .pages_links {
-      height: calc(100vh - 273px); } }
+      height: calc(100vh - 273px); }
+    
+      header.style-1 .head-shape-l{
+        display: none;
+      }
+      header.style-1 .head-shape-r{
+        display: none
+      }
+    }
 
 /* ===============================================================
 			[ * navbar Section ] 
