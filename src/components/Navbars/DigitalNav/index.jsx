@@ -65,7 +65,7 @@ const Navbar = () => {
                 // data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                About Sadip
+                About
               </a>
             </li>
             <li
