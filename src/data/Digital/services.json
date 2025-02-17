@@ -7,13 +7,6 @@
     "tags": ["Strategy", "Consultation", "Management"]
   },
   {
-    "title": "Data Security",
-    "number": "02",
-    "icon": "/assets/img/icons/serv_icons/2.png",
-    "text": "Protect your digital assets with robust security solutions, including data backup, recovery, and secure information transfer.",
-    "tags": ["Management", "Backup & Recovery", "Transfer"]
-  },
-  {
     "title": "Website Development",
     "number": "03",
     "icon": "/assets/img/icons/serv_icons/3.png",
