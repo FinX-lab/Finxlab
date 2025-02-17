@@ -1254,6 +1254,12 @@ small.text {
 .color-999 {
   color: #999 !important; }
 
+/* custom margin for chooseUsBussiness */
+.custom-margin{
+  margin-top: 5rem;
+}
+
+
 /* --------------- icons size --------------- */
 .icon-10 {
   width: 10px;
@@ -5107,6 +5113,9 @@ header.style-15 {
     max-height: none;
     -webkit-animation: rotate-center 100s linear infinite both;
     animation: rotate-center 100s linear infinite both; }
+    .choose-Business-img{
+
+    }
   .choose-us.style-1 .info .text {
     color: #666;
     margin-bottom: 40px; }
@@ -5140,7 +5149,7 @@ header.style-15 {
     margin-top: 60px; }
   .choose-us.style-1 .choose-us-brands {
     position: absolute;
-    left: 0;
+    left: 0%;
     bottom: 0;
     width: 50%;
     -o-object-fit: contain;
@@ -5150,7 +5159,7 @@ header.style-15 {
     z-index: 5; }
   .choose-us.style-1 .choose-us-bubbles {
     position: absolute;
-    left: 0;
+    left: 0%;
     bottom: 0;
     width: 45%;
     -o-object-fit: contain;
