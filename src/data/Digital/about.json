@@ -1,0 +1,28 @@
+{
+  "logos": [
+    "/assets/img/about/about_logos/1.png",
+    "/assets/img/about/about_logos/2.png",
+    "/assets/img/about/about_logos/3.png",
+    "/assets/img/about/about_logos/4.png",
+    "/assets/img/about/about_logos/5.png"
+  ],
+  "numbers": [
+    {
+      "number": 10,
+      "info": "Years of Experience",
+      "operator": {
+        "icon": "fas fa-plus"
+      }
+    },
+    {
+      "number": 15,
+      "info": "Projects completed",
+      "operator": "K"
+    },
+
+    {
+      "number": 260,
+      "info": "Satisfied clients on 2 countries"
+    }
+  ]
+}

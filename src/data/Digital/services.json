@@ -1,0 +1,37 @@
+[
+  {
+    "title": "IT Consultation",
+    "number": "01",
+    "icon": "/assets/img/icons/serv_icons/1.png",
+    "text": "Leverage expert advice to optimize business processes, adopt cutting-edge technologies, and drive innovation for lasting success.",
+    "tags": ["Strategy", "Consultation", "Management"]
+  },
+  {
+    "title": "Data Security",
+    "number": "02",
+    "icon": "/assets/img/icons/serv_icons/2.png",
+    "text": "Protect your digital assets with robust security solutions, including data backup, recovery, and secure information transfer.",
+    "tags": ["Management", "Backup & Recovery", "Transfer"]
+  },
+  {
+    "title": "Website Development",
+    "number": "03",
+    "icon": "/assets/img/icons/serv_icons/3.png",
+    "text": "Build user-friendly, scalable websites tailored to your business needs, from eCommerce platforms to engaging landing pages.",
+    "tags": ["Ecommerce", "Landing Page", "CMS", "Plugin"]
+  },
+  {
+    "title": "UI/UX Design",
+    "number": "04",
+    "icon": "/assets/img/icons/serv_icons/4.png",
+    "text": "Create visually stunning and intuitive designs that enhance user experiences across websites and mobile applications.",
+    "tags": ["Website", "Mobile App"]
+  },
+  {
+    "title": "Graphics Design",
+    "number": "05",
+    "icon": "/assets/img/icons/serv_icons/5.png",
+    "text": "Deliver captivating graphics and creative assets that strengthen your brand identity and engage your audience.",
+    "tags": ["Website", "Mobile App"]
+  }
+]

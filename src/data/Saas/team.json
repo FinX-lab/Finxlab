@@ -1,0 +1,22 @@
+[
+  {
+    "picture": "/assets/img/team/1.jpeg",
+    "name": "Baburam Dangi",
+    "position": "CEO Founder"
+  },
+  {
+    "picture": "/assets/img/team/5.jpeg",
+    "name": "Suresh Ghimire",
+    "position": "CIO"
+  },
+  {
+    "picture": "/assets/img/team/3.jpeg",
+    "name": "Niraj Gautam",
+    "position": "CFO"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Pukav Raj Giri",
+    "position": "Executive Consultant"
+  }
+]

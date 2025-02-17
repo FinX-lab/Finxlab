@@ -1,0 +1,8 @@
+.delaware_marker {
+  position: "absolute";
+  top: 16.5%;
+  left: 24%;
+  background-color: "red";
+  width: "15px";
+  height: "15px";
+}

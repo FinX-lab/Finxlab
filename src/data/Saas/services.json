@@ -1,0 +1,25 @@
+[
+  {
+    "img": "/assets/img/icons/serv_icons/16.png",
+    "info": " Funding & Investment",
+    "text": "We help businesses craft effective strategies for growth, ensuring a competitive edge in your market."
+  },
+
+  {
+    "img": "/assets/img/icons/serv_icons/14.png",
+    "info": "Business Analytics & Reporting   ",
+    "text": "Engage with your customers through personalized email campaigns that convert and drive loyalty."
+  },
+
+  {
+    "img": "/assets/img/icons/serv_icons/18.png",
+    "info": "Technology & Infrastructure",
+    "text": "We create stunning, functional websites optimized for performance to impress your visitors within seconds."
+  },
+
+  {
+    "img": "/assets/img/icons/serv_icons/20.png",
+    "info": "Growth & Scaling",
+    "text": "We provide ongoing IT support and maintenance to ensure the smooth running of your systems and infrastructure."
+  }
+]

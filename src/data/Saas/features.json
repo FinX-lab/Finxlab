@@ -1,0 +1,24 @@
+[
+  {
+    "image": "/assets/img/icons/features/1.png",
+    "title": " Funding & Investment ",
+    "description": "Help businesses navigate the registration process smoothly, from startups to established enterprises."
+  },
+  {
+    "image": "/assets/img/icons/features/21.png",
+    "title": "Technology & Infrastructure",
+    "description": "Custom web design and development services to build professional websites that match business needs."
+  },
+
+  {
+    "image": "/assets/img/icons/features/6.png",
+    "title": "Growth &<br> Scaling",
+    "description": "Integrate secure payment gateways to provide multiple payment options for your customers."
+  },
+
+  {
+    "image": "/assets/img/icons/features/8.png",
+    "title": "Business Analytics & Reporting",
+    "description": "Track and analyze business performance with detailed reports and actionable insights for better decision-making."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "address": {
+    "address1": "Bhagwanpau, Kathmandu 44600, NP,",
+    "address2": "Kathmandu, Nepal"
+  },
+  "phone": "015 924 442",
+  "email": "kathmandu@finxlab.com",
+  "usefulLinks": [
+    { "link": "/home-saas-technology", "title": "Home" },
+    { "link": "/page-about-5", "title": "About FinxLab" },
+    { "link": "/page-portfolio-5", "title": "Projects" },
+    { "link": "/page-blog-5", "title": "Blog" },
+    { "link": "/page-contact-5", "title": "Contact" }
+  ],
+  "resources": [
+    { "link": "#", "title": "Online Documentation" },
+    { "link": "#", "title": "Roadmap" },
+    { "link": "#", "title": "Intergrations" },
+    { "link": "#", "title": "FAQs" },
+    { "link": "#", "title": "Help Center" }
+  ]
+}

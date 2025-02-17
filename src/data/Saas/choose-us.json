@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "/assets/img/icons/serv_icons/1.png",
+    "info": "IT Consultation",
+    "details": "Our experts provide strategic guidance and technical insight to drive your business forward."
+  },
+  {
+    "icon": "/assets/img/icons/serv_icons/3.png",
+    "info": "Graphic Design",
+    "details": "Our creative team designs visually stunning graphics to enhance your brand identity and engage your audience."
+  },
+  {
+    "icon": "/assets/img/icons/serv_icons/5.png",
+    "info": "Website Development",
+    "details": "We build responsive, user-friendly websites that help businesses establish a strong online presence."
+  }
+]

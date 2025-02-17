@@ -1,0 +1,23 @@
+.delaware_toolip {
+  position: "absolute";
+  top: "17%";
+  left: "27%";
+  background: "#fff";
+  display: "none";
+  padding: "5px";
+  border: "1px solid #ddd";
+  border-radius: "5px";
+}
+.contact-page.style-5 .map .delaware_toolip {
+  position: "absolute";
+  top: "17%";
+  left: "27%";
+  background: "#fff";
+  display: "none";
+  padding: "5px";
+  border: "1px solid #ddd";
+  border-radius: "5px";
+}
+.contact-page.style-5 .map .delaware_marker:hover .delaware_toolip {
+  display: block;
+}
