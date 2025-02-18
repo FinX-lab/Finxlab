@@ -41,25 +41,26 @@ const About = () => {
               <div className="col-lg-5">
                 <div className="title">
                   <h3 className="wow fadeInUp slow">
-                    “Technology is best when it drives business forward.”
+                    "Empowering Visionary Entrepreneurs Through Technology"
                   </h3>
                   <small className="wow fadeInUp slow fw-bold">
-                    Patricia Cross
+                    {/* Patricia Cross */}
                   </small>
                 </div>
               </div>
               <div className="col-lg-6">
                 <div className="info">
                   <h6 className="wow fadeInUp slow">
-                    We help businesses modernize their IT infrastructure and
-                    solve the unique challenges that come with digital
-                    transformation.
+                  FINX LAB is a venture capital firm backing visionary entrepreneurs shaping the future through technology. We invest across all stages—from seed to growth—in industries like AI, biotech, consumer tech, fintech, gaming, and enterprise solutions.
                   </h6>
+                  {/* <p className="wow fadeInUp slow">
+                  We respect the entrepreneurial journey and understand the challenges of building a successful company. Our leadership team, composed of former founders, CEOs, and CTOs, brings deep expertise in AI, blockchain, security, and financial services.
+                  </p> <br />
                   <p className="wow fadeInUp slow">
-                    Finxlab Co is the partner of choice for leading enterprises,
-                    and innovators. We empower businesses to scale with custom
-                    software development, web and app solutions, and expert IT
-                    consultancy.
+                  Beyond capital, we foster a thriving ecosystem by connecting entrepreneurs with investors, executives, engineers, and industry leaders. 
+                  </p> <br /> */}
+                  <p className="wow fadeInUp slow">
+                  FINX LAB is dedicated to driving transformative innovation. Through strategic insights, operational expertise, and industry connections, we help portfolio companies grow and succeed in an ever-evolving marketplace.
                   </p>
                   <Link
                     to="/page-about-5"
