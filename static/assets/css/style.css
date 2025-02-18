@@ -70,21 +70,18 @@ TABLE OF CONTENTS:-
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
-<<<<<<< HEAD
+
   --color-main:#272B6A;
   --color-primary:#272B6A;
   --color-secondary:#02b5ff;
-=======
   --color-main: #0066ff;
   --color-primary: #0066ff;
   --color-secondary: #02b5ff;
->>>>>>> 70d467fb45ee6207ec65b329cda32d05911cc10d
   --color-blue2: #4a00e1;
   --color-blue4: #5842bc;
   --color-blue5: #157efb;
   --color-blue6: #6640f4;
   --color-blue7: #8169f1;
-<<<<<<< HEAD
   --color-lightBlue:#15f1ff;
   --color-darkBlue:#010049;
   --color-darkBlue2:#1f227d;
@@ -97,8 +94,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #272B6A 0%, #02b5ff 100%); }
-=======
+  --color-main-grad: linear-gradient(to right, #272B6A 0%, #02b5ff 100%); 
   --color-lightBlue: #15f1ff;
   --color-darkBlue: #010049;
   --color-darkBlue2: #1f227d;
@@ -113,7 +109,6 @@ TABLE OF CONTENTS:-
   --color-gray2: #f0eff5;
   --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%);
 }
->>>>>>> 70d467fb45ee6207ec65b329cda32d05911cc10d
 
 .color-main {
   color: var(--color-main) !important;
@@ -1807,7 +1802,6 @@ small.text {
   text-align: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-<<<<<<< HEAD
   justify-content: center; }
   .butn span,
   .btn span {
@@ -1968,8 +1962,7 @@ small.text {
     .butn.hover-shadow:hover,
     .btn.hover-shadow:hover {
       -webkit-box-shadow: 0 5px 10px #0003;
-      box-shadow: 0 5px 10px #0003; }
-=======
+      box-shadow: 0 5px 10px #0003; 
   justify-content: center;
 }
 .butn span,
@@ -2188,7 +2181,6 @@ small.text {
   -webkit-box-shadow: 0 5px 10px #0003;
   box-shadow: 0 5px 10px #0003;
 }
->>>>>>> 70d467fb45ee6207ec65b329cda32d05911cc10d
 
 .scale_up_down {
   -webkit-animation: RL_smooth 1s ease-in-out infinite alternate both;
