@@ -70,8 +70,8 @@ TABLE OF CONTENTS:-
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
-  --color-main:#0066ff;
-  --color-primary:#0066ff;
+  --color-main:#272B6A;
+  --color-primary:#272B6A;
   --color-secondary:#02b5ff;
   --color-blue2: #4a00e1;
   --color-blue4: #5842bc;
@@ -90,7 +90,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%); }
+  --color-main-grad: linear-gradient(to right, #272B6A 0%, #02b5ff 100%); }
 
 .color-main {
   color: var(--color-main) !important; }
@@ -1432,10 +1432,10 @@ small.text {
     width: 150%;
     height: 100%;
     z-index: 1;
-    background: -webkit-gradient(linear, left top, right top, color-stop(10%, #0c3df4), color-stop(45%, #02b5ff), color-stop(#02b5ff), to(#0c3df4));
-    background: -webkit-linear-gradient(left, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
-    background: -o-linear-gradient(left, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
-    background: linear-gradient(to right, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
+    background: -webkit-gradient(linear, left top, right top, color-stop(10%, #272B6A), color-stop(45%, #02b5ff), color-stop(#02b5ff), to(#272B6A));
+    background: -webkit-linear-gradient(left, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
+    background: -o-linear-gradient(left, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
+    background: linear-gradient(to right, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease; }
