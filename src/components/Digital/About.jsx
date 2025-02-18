@@ -24,7 +24,7 @@ const About = () => {
     <section className="about style-1" data-scroll-index="1">
       <div className="container">
         <div className="content">
-          <div className="about-logos d-flex align-items-center justify-content-between border-bottom border-1 brd-light pb-20">
+          <div className="about-logos d-flex align-items-center justify-content-between border-bottom border-1 brd-light pb-20 gap-5">
             {aboutData.logos.map((logo, index) => (
               <a
                 href="#"
@@ -51,7 +51,11 @@ const About = () => {
               <div className="col-lg-6">
                 <div className="info">
                   <h6 className="wow fadeInUp slow">
-                  FINX LAB is a venture capital firm backing visionary entrepreneurs shaping the future through technology. We invest across all stages—from seed to growth—in industries like AI, biotech, consumer tech, fintech, gaming, and enterprise solutions.
+                    FINX LAB is a venture capital firm backing visionary
+                    entrepreneurs shaping the future through technology. We
+                    invest across all stages—from seed to growth—in industries
+                    like AI, biotech, consumer tech, fintech, gaming, and
+                    enterprise solutions.
                   </h6>
                   {/* <p className="wow fadeInUp slow">
                   We respect the entrepreneurial journey and understand the challenges of building a successful company. Our leadership team, composed of former founders, CEOs, and CTOs, brings deep expertise in AI, blockchain, security, and financial services.
@@ -60,7 +64,10 @@ const About = () => {
                   Beyond capital, we foster a thriving ecosystem by connecting entrepreneurs with investors, executives, engineers, and industry leaders. 
                   </p> <br /> */}
                   <p className="wow fadeInUp slow">
-                  FINX LAB is dedicated to driving transformative innovation. Through strategic insights, operational expertise, and industry connections, we help portfolio companies grow and succeed in an ever-evolving marketplace.
+                    FINX LAB is dedicated to driving transformative innovation.
+                    Through strategic insights, operational expertise, and
+                    industry connections, we help portfolio companies grow and
+                    succeed in an ever-evolving marketplace.
                   </p>
                   <Link
                     to="/page-about-5"
