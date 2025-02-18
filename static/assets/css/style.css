@@ -73,13 +73,13 @@ TABLE OF CONTENTS:-
 
   --color-main:#272B6A;
   --color-primary:#272B6A;
-  --color-secondary:#02b5ff;
-  --color-main: #0066ff;
-  --color-primary: #0066ff;
-  --color-secondary: #02b5ff;
+  --color-secondary:#272B6A;
+  --color-main: #272B6A;
+  --color-primary: #272B6A;
+  --color-secondary: #272B6A;
   --color-blue2: #4a00e1;
   --color-blue4: #5842bc;
-  --color-blue5: #157efb;
+  --color-blue5: #272B6A;
   --color-blue6: #6640f4;
   --color-blue7: #8169f1;
   --color-lightBlue:#15f1ff;
@@ -94,7 +94,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #272B6A 0%, #02b5ff 100%); 
+  --color-main-grad: linear-gradient(to right, #272B6A 0%, #276fd4 100%); 
   --color-lightBlue: #15f1ff;
   --color-darkBlue: #010049;
   --color-darkBlue2: #1f227d;
@@ -107,7 +107,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen: #cef54b;
   --color-gray: #eef4f8;
   --color-gray2: #f0eff5;
-  --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%);
+  --color-main-grad: linear-gradient(to right, #2b50e2 0%, #272B6A 100%);
 }
 
 .color-main {
@@ -463,32 +463,32 @@ body.style-6 {
     right top,
     left top,
     from(#501e9c),
-    color-stop(30%, #8169f1),
-    color-stop(30%, #8169f1),
-    color-stop(73%, #a44cee),
+    color-stop(30%, #202ab5),
+    color-stop(30%, #202ab5),
+    color-stop(73%, #202ab5),
     to(#ff847f)
   );
   background: -webkit-linear-gradient(
     right,
-    #501e9c 0%,
-    #8169f1 30%,
-    #8169f1 30%,
-    #a44cee 73%,
+    #202ab5 0%,
+    #202ab5 30%,
+    #202ab5 30%,
+    #202ab5 73%,
     #ff847f 100%
   );
   background: -o-linear-gradient(
     right,
-    #501e9c 0%,
+    #202ab5 0%,
     #8169f1 30%,
-    #8169f1 30%,
-    #a44cee 73%,
+    #202ab5 30%,
+    #202ab5 73%,
     #ff847f 100%
   );
   background: linear-gradient(
     to left,
     #501e9c 0%,
-    #8169f1 30%,
-    #8169f1 30%,
+    #202ab5 30%,
+    #202ab5 30%,
     #a44cee 73%,
     #ff847f 100%
   );
@@ -867,11 +867,11 @@ small.text {
     left top,
     right top,
     from(#0c3df4),
-    to(#02b5ff)
+    to(#272B6A)
   );
-  background: -webkit-linear-gradient(left, #0c3df4 0%, #02b5ff 100%);
-  background: -o-linear-gradient(left, #0c3df4 0%, #02b5ff 100%);
-  background: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%);
+  background: -webkit-linear-gradient(left, #0c3df4 0%, #272B6A 100%);
+  background: -o-linear-gradient(left, #0c3df4 0%, #272B6A 100%);
+  background: linear-gradient(to right, #0c3df4 0%, #272B6A 100%);
   -webkit-transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   -o-transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
@@ -1824,10 +1824,10 @@ small.text {
     width: 150%;
     height: 100%;
     z-index: 1;
-    background: -webkit-gradient(linear, left top, right top, color-stop(10%, #272B6A), color-stop(45%, #02b5ff), color-stop(#02b5ff), to(#272B6A));
-    background: -webkit-linear-gradient(left, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
-    background: -o-linear-gradient(left, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
-    background: linear-gradient(to right, #272B6A 10%, #02b5ff 45%, #02b5ff, #272B6A);
+    background: -webkit-gradient(linear, left top, right top, color-stop(10%, #272B6A), color-stop(45%, #272B6A), color-stop(#272B6A), to(#272B6A));
+    background: -webkit-linear-gradient(left, #272B6A 10%, #272B6A 45%, #272B6A, #272B6A);
+    background: -o-linear-gradient(left, #272B6A 10%, #272B6A 45%, #272B6A, #272B6A);
+    background: linear-gradient(to right, #272B6A 10%, #272B6A 45%, #272B6A, #272B6A);
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease; }
@@ -1993,29 +1993,29 @@ small.text {
     left top,
     right top,
     color-stop(10%, #0c3df4),
-    color-stop(45%, #02b5ff),
-    color-stop(#02b5ff),
+    color-stop(45%, #272B6A),
+    color-stop(#272B6A),
     to(#0c3df4)
   );
   background: -webkit-linear-gradient(
     left,
     #0c3df4 10%,
-    #02b5ff 45%,
-    #02b5ff,
+    #272B6A 45%,
+    #272B6A,
     #0c3df4
   );
   background: -o-linear-gradient(
     left,
     #0c3df4 10%,
-    #02b5ff 45%,
-    #02b5ff,
+    #272B6A 45%,
+    #272B6A,
     #0c3df4
   );
   background: linear-gradient(
     to right,
-    #0c3df4 10%,
-    #02b5ff 45%,
-    #02b5ff,
+    #0c3df4 10%,  
+    #272B6A 45%,
+    #272B6A,
     #0c3df4
   );
   -webkit-transition: all 0.3s ease;
